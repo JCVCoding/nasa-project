@@ -17,6 +17,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@types/morgan": "^1.9.9",
     "morgan": "^1.10.0"
   }
 }
